@@ -1,15 +1,14 @@
 <head>
   {{ if .IsHome }}
     <title>
-      {{ .Page.Title }}
+    
       {{ .Site.Title }}
-      {{ .Site.Params.subtitle }}
+    
     </title>
   {{ else }}
     <title>
       {{ .Page.Title }} |
       {{ .Site.Title }}
-      {{ .Site.Params.subtitle }}
     </title>
   {{ end }}
   <meta charset="utf-8" />

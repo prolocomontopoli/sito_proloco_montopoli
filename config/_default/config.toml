@@ -1,7 +1,7 @@
 baseURL = 'https://example.com'
 languageCode = ''
 title = 'Magnolia Default' # This can get overwritten by the single language files
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'it'
 # defaultContentLanguageInSubDir = true
 enableRobotsTXT = true
 theme = "Magnolia"
@@ -17,12 +17,12 @@ googleAnalytics = ""
 # BLOG
 # Uncomment if you want to disable all posts and tags rendering and indexing
 #ignoreFiles= ['posts/*']
-#disableKinds = ['taxonomy', 'term']
+disableKinds = ['taxonomy', 'term']
 
 # Developer area #
 
 [taxonomies]
-tag = "tags"
+# tag = "tags"
 
 [module]
     [[module.mounts]]

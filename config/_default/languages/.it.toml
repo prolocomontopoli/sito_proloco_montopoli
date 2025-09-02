@@ -1,38 +1,33 @@
 disabled = false
 languageCode = 'it-IT'
 languageName = 'Italiano'
-title = 'Magnolia'
+title = "Pro Loco di Montopoli in val d'Arno APS"
 copyright = """Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 \n
  Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄"""
 contentDir="content/it"
 
 [params]
-  subtitle = "Free Hugo theme"
+  subtitle = "Associazione turistica"
 
 # PAGES
 
   [params.homepage]
-    preTitle = 'Free Hugo theme'
-    title = "Magnolia"
+    preTitle = "Associazione turistica"
+    title = "Pro Loco di Montopoli in Val d'Arno APS"
     intro= """
-### "La libertà ci rende esseri umani migliori e ci fa migliorare più velocemente il nostro status di razza collettiva ".
-___
+"Il Gruppo Storico Montopolese nasce nel 1976 all’interno dell’Associazione Pro Loco di Montopoli V/A, con lo scopo di avvicinare i giovani alla cultura medievale e rinascimentale della propria terra.
 
-**Un tema Hugo semplice, completamente personalizzabile e multilingue pensato per i professionisti e le piccole imprese**.
+Il Gruppo è composto da Danza Storica, Musici, Sbandieratori e Arcieri ed è riuscito a farsi apprezzare sia in Italia che all’estero.
 
-Ho costruito questo tema pensando alla semplicità, è piccolo e facilmente **personalizzabile, reattivo, modulare e multilingua**. Ma lascia anche spazio a una personalizzazione più approfondita, poiché utilizza **Bootstrap** e **SCSS**.
-
-Qui c'è la [pagina github del tema](https://github.com/ololiuhqui/magnolia-free-hugo-theme), a cui si dovrebbe fare riferimento se si cercano ulteriori dettagli, ricordati di lasciare una stellina al repo!
-
-Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche e vedete un bellissimo esempio di pagina dei contatti qui sotto.
+La nostra associazione vive in stretta collaborazione con le amministrazioni, le fondazioni e le associazioni del territorio".
         """
-    mainButton = "Caratteristiche"
-    mainButtonRef = "/caratteristiche"
-    secondButton = "Contatti"
-    secondButtonRef = "/contatti"
+    mainButton = "Gruppo Storico"
+    mainButtonRef = "/gruppostorico"
+    secondButton = "Montopoli Medioevo"
+    secondButtonRef = "/rievocazione"
 
-    blogTitle = "Storie interessanti"
-    blogButton= "More Stories"
+    blogTitle = "Le ultime novità"
+    blogButton= "Carica altro"
 
 [params.office]
   title = "Uffici"
@@ -44,7 +39,7 @@ Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche
 [params.contacts]
   title = "Contattaci!"
   formCallToAction = "Questa è una pagina di esempio \"contattaci\"; è possibile ricevere le risposte dei moduli su FormSpree (gratis)."
-  socialCallToAction = "Puoi aggiungere i tuoi link ai social media qui sotto!"
+  socialCallToAction = "Contattaci su WhatsApp e seguici sui social media!"
   [params.contacts.form]
     formspreeLink = "https://yourformspreelink.com"
     firstname = "Nome*"
@@ -85,14 +80,14 @@ Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche
   enabled = true
   callToAction= "Connettiti con noi sui social media >"
       [[params.socials.link]]
-        name = "github"
-        link = "https://github.com/ololiuhqui/magnolia-free-hugo-theme"
+        name = "facebook"
+        link = "https://www.facebook.com/prolocomontopoli"
       [[params.socials.link]]
-        name = "linkedin"
-        link = ""
+        name = "instagram"
+        link = "https://www.instagram.com/prolocomontopoli"
       [[params.socials.link]]
         name = "whatsapp"
-        link = ""
+        link = "https://wa.me/393889554187"
 
 [params.schedules]
   enabledFooter = false
@@ -108,17 +103,17 @@ Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche
     day7 = ""
 
 [params.footer]
-  extraDescription1 = "Straight outta Scranton city"
-  extraDescription2 = "VAT No. 0000000000"
+  extraDescription1 = ""
+  extraDescription2 = ""
   [params.footer.navigate]
   heading = "Naviga"
   [params.footer.contacts]
   enabled = true
   heading = "Contatti"
-  address = "Scranton 2865 Pouros Corners 55441-0788"
-  mail = "dundermifflin@fakemail.com"
-  mail2 = "dundermifflinorders@fakemail.com"
-  phone = "+00 0000000"
+  address = "Piazza San Matteo 3, 56020 Montopoli in Val d'Arno (PI)"
+  mail = "prolocom@gmail.com"
+  mail2 = ""
+  phone = "388 9554187"
 
 [params.notfound]
   title = "404, page not found"
@@ -128,19 +123,20 @@ Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche
   toc= "Indice"
 
 [menus]
-  [[menus.main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 1
-  [[menus.main]]
-  name = "caratteristiche"
-  pageRef = "pages/services"
-  weight = 2
-  [[menus.main]]
-  name = "Uffici"
-  pageRef = "pages/office"
-  weight = 3
+ 
   [[menus.main]]
   name = "Contatti"
   pageRef = "pages/contacts"
+  weight = 4
+  [[menus.main]]
+  name = "Gruppo Storico"
+  pageRef = "pages/gruppo_storico"
+  weight = 4
+   [[menus.main]]
+  name = "trasparenza"
+  pageRef = "pages/trasparenza"
+  weight = 4   
+  [[menus.main]]
+  name = "Rievocazione"
+  pageRef = "pages/rievocazione"
   weight = 4

@@ -1,0 +1,60 @@
+{{$nome := .Get "nome"}} {{$variante := .Get "variante"}}
+
+<!-- Display arciere by name -->
+{{ $arcieri := .Page.Resources.Get "data/arcieri.yaml" | transform.Unmarshal }}
+{{ range where $arcieri "nome" $nome}} {{ if eq $variante "sinistra"}}
+
+<div class="row my-3">
+  <div class="col-4" style="">
+    <img
+      class="h-100 w-100"
+      style="object-fit: contain"
+      src="{{.img}}"
+      alt="arciere {{.nome}}"
+    />
+  </div>
+  <div class="col-8 d-flex flex-column justify-content-around">
+    <span
+      ><p class="text-muted h4">{{.contrada}}</p>
+
+      <span class="h1 text-bold">{{.nome}}</span>
+      <p class=""><b>{{.soprannome}}</b></p>
+      <p>{{.descrizione}}</p>
+    </span>
+
+    <span>
+      <p><b>Rivale:</b> {{.rivale}}</p>
+      <p><b>Sfida arciera:</b> {{.sfida_arciera }}</p>
+      <p><b>Mito fondativo:</b> {{.mito_fondativo }}</p></span
+    >
+  </div>
+</div>
+<hr />
+{{ else if eq $variante "destra" }}
+<div class="row my-3">
+  <div class="col-8 d-flex flex-column justify-content-around">
+    <span
+      ><p class="text-muted h4">{{.contrada}}</p>
+
+      <span class="h1 text-bold">{{.nome}}</span>
+      <p class=""><b>{{.soprannome}}</b></p>
+      <p>{{.descrizione}}</p>
+    </span>
+
+    <span>
+      <p><b>Rivale:</b> {{.rivale}}</p>
+      <p><b>Sfida arciera:</b> {{.sfida_arciera }}</p>
+      <p><b>Mito fondativo:</b> {{.mito_fondativo }}</p></span
+    >
+  </div>
+  <div class="col-4" style="">
+    <img
+      class="h-100 w-100"
+      style="object-fit: contain"
+      src="{{.img}}"
+      alt="arciere {{.nome}}"
+    />
+  </div>
+</div>
+<hr />
+{{end}} {{ end }}

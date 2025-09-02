@@ -1,7 +1,8 @@
 {{ define "main" }}
 <div class="container">
-  {{ with .Resources.GetMatch "images/featured*" }}
   <h1>{{ $.Title }}</h1>
+  {{ with .Resources.GetMatch "images/featured*" }}
+
   <img
     class="rounded img-fluid shadow post-img mb-3"
     src="{{ .RelPermalink }}"
@@ -40,15 +41,15 @@
   <div class="row g-3 gx-lg-5">
     <div class="col order-lg-first">{{ with .Content }}{{ . }}{{ end }}</div>
     <!-- Table Of Contents -->
+    {{ if in .TableOfContents "li" }}
     <div class="order-first order-lg-last col-12 col-lg-4">
-      {{ if in .TableOfContents "li" }}
       <div class="border p-3 sticky-top toc">
         <p>{{ .Site.Params.single.toc }}</p>
 
         {{ .TableOfContents }}
       </div>
-      {{ end }}
     </div>
+    {{ end }}
   </div>
 
   <!-- Related posts -->
