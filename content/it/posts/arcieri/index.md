@@ -21,3 +21,5 @@ Params:
 {{< arciere nome="Alessandro Leone" variante="destra">}}
 {{< arciere nome="Marco Puccioni" variante="sinistra">}}
 {{< arciere nome="Giovanni Granata" variante="destra">}}
+{{< arciere nome="Dario Prisco" variante="sinistra">}}
+{{< arciere nome="Riccardo Caponi" variante="destra">}}
