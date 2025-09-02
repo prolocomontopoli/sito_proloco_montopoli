@@ -18,6 +18,6 @@ Params:
 ---
 
 {{< arciere nome="Alice Cristofani" variante="sinistra">}}
-{{< arciere nome="Marco Puccioni" variante="destra">}}
-{{< arciere nome="Alessandro Leone" variante="sinistra">}}
+{{< arciere nome="Alessandro Leone" variante="destra">}}
+{{< arciere nome="Marco Puccioni" variante="sinistra">}}
 {{< arciere nome="Giovanni Granata" variante="destra">}}
