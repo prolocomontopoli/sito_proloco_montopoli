@@ -4,16 +4,16 @@
 {{ $arcieri := .Page.Resources.Get "data/arcieri.yaml" | transform.Unmarshal }}
 {{ range where $arcieri "nome" $nome}} {{ if eq $variante "sinistra"}}
 
-<div class="row my-3">
-  <div class="col-4" style="">
+<div class="row ">
+  <div class="col-12 col-lg-4 order-last" style="">
     <img
-      class="h-100 w-100"
-      style="object-fit: contain"
+      class=" h-100 w-100"
+      style="object-fit: contain; "
       src="{{.img}}"
       alt="arciere {{.nome}}"
     />
   </div>
-  <div class="col-8 d-flex flex-column justify-content-around">
+  <div class="col-12 col-lg-8 d-flex flex-column justify-content-center">
     <span
       ><p class="text-muted h4">{{.contrada}}</p>
 
@@ -31,8 +31,8 @@
 </div>
 <hr />
 {{ else if eq $variante "destra" }}
-<div class="row my-3">
-  <div class="col-8 d-flex flex-column justify-content-around">
+<div class="row ">
+  <div class=" col-12 col-lg-8 d-flex flex-column justify-content-center">
     <span
       ><p class="text-muted h4">{{.contrada}}</p>
 
@@ -47,10 +47,10 @@
       <p><b>Mito fondativo:</b> {{.mito_fondativo }}</p></span
     >
   </div>
-  <div class="col-4" style="">
+  <div class="col-12 col-lg-4 order-last order-lg-first " style="">
     <img
       class="h-100 w-100"
-      style="object-fit: contain"
+      style="object-fit: contain; height: 80vh"
       src="{{.img}}"
       alt="arciere {{.nome}}"
     />
