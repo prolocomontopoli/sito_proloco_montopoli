@@ -21,3 +21,5 @@ Params:
 **Il menù per i bambini comprende ciaccino con affettati e pasta al pomodoro.**
 
 ## Prenotazioni
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfD4B_x1iiXF2FRb3FMWpTdU0Jkx2qrqe96aeJa5dAMMdCpSw/viewform?embedded=true" width="100%" height="3000px" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
