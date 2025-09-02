@@ -1,6 +1,6 @@
-baseURL = 'https://example.com'
+baseURL = 'https://montopoli.eu'
 languageCode = ''
-title = 'Magnolia Default' # This can get overwritten by the single language files
+title = "Pro Loco di Montopoli in val d'Arno APS" # This can get overwritten by the single language files
 defaultContentLanguage = 'it'
 # defaultContentLanguageInSubDir = true
 enableRobotsTXT = true
