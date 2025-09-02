@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Far Crescere on Pro Loco di Montopoli in val d&#39;Arno APS</title>
-    <link>https://example.com/tags/far-crescere/</link>
+    <link>https://montopoli.eu/tags/far-crescere/</link>
     <description>Recent content in Far Crescere on Pro Loco di Montopoli in val d&#39;Arno APS</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <copyright>Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 
 
  Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄</copyright>
-    <atom:link href="https://example.com/tags/far-crescere/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://montopoli.eu/tags/far-crescere/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

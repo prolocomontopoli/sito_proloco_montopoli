@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/cena_medievale/</loc>
+    <loc>https://montopoli.eu/posts/cena_medievale/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/gruppostorico/</loc>
+    <loc>https://montopoli.eu/gruppostorico/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -15,32 +15,32 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://example.com/gruppostorico/"
+                href="https://montopoli.eu/gruppostorico/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://montopoli.eu/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/rievocazione/</loc>
+    <loc>https://montopoli.eu/rievocazione/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://montopoli.eu/posts/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/arcieri/</loc>
+    <loc>https://montopoli.eu/posts/arcieri/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/trasparenza/</loc>
+    <loc>https://montopoli.eu/trasparenza/</loc>
     <lastmod>2025-09-01T10:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/contatti/</loc>
+    <loc>https://montopoli.eu/contatti/</loc>
   </url><url>
-    <loc>https://example.com/tags/far-crescere/</loc>
+    <loc>https://montopoli.eu/tags/far-crescere/</loc>
   </url><url>
-    <loc>https://example.com/tags/fiori/</loc>
+    <loc>https://montopoli.eu/tags/fiori/</loc>
   </url><url>
-    <loc>https://example.com/tags/piantare/</loc>
+    <loc>https://montopoli.eu/tags/piantare/</loc>
   </url><url>
-    <loc>https://example.com/tags/software-libero/</loc>
+    <loc>https://montopoli.eu/tags/software-libero/</loc>
   </url>
 </urlset>
