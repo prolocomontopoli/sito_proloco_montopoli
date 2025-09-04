@@ -23,3 +23,5 @@ Params:
 {{< arciere nome="Giovanni Granata" variante="destra">}}
 {{< arciere nome="Dario Prisco" variante="sinistra">}}
 {{< arciere nome="Riccardo Caponi" variante="destra">}}
+{{< arciere nome="Amos Menicucci" variante="sinistra">}}
+{{< arciere nome="Andrea Cecchi" variante="destra">}}

@@ -60,16 +60,16 @@
   rivale: Valle - Peringiù
   sfida_arciera: Il Tiro delle Logge
   mito_fondativo: "Durante un assedio, un arciere delle Logge difese il borgo tirando attraverso le colonne del porticato. Gli uomini della Valle, colpiti e respinti, giurarono che fu la luce del tramonto a tradirli, più che l’abilità del nemico. Da allora, la sfida prevede di scoccare frecce attraverso strette arcate di pietra, a dimostrare chi sa davvero governare la traiettoria del proprio arco"
-  img: ""
+  img: "images/logge.jpg"
 
 - nome: Andrea Cecchi
   soprannome: “Il Fiorentino"
-  contrada: Valle
+  contrada: Valle - Peringiù
   descrizione: "Elegante e armonioso, i suoi tiri sono una danza: belli da vedere quanto letali."
   rivale: Logge - Perinsù
   sfida_arciera: Il Tiro delle Logge
   mito_fondativo: "Durante un assedio, un arciere delle Logge difese il borgo tirando attraverso le colonne del porticato. Gli uomini della Valle, colpiti e respinti, giurarono che fu la luce del tramonto a tradirli, più che l’abilità del nemico. Da allora, la sfida prevede di scoccare frecce attraverso strette arcate di pietra, a dimostrare chi sa davvero governare la traiettoria del proprio arco. I Valligiani sostengono che l’arciere nemico vinse solo grazie alla luce e alle ombre delle colonne."
-  img: ""
+  img: "images/valle.jpg"
 
 - nome: Stefano Lelli
   soprannome: “Il Nipote della Balia"
