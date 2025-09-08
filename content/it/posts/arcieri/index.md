@@ -25,3 +25,5 @@ Params:
 {{< arciere nome="Riccardo Caponi" variante="destra">}}
 {{< arciere nome="Amos Menicucci" variante="sinistra">}}
 {{< arciere nome="Andrea Cecchi" variante="destra">}}
+{{< arciere nome="Stefano Lelli" variante="sinistra">}}
+{{< arciere nome="Francesco Dal Canto" variante="destra">}}

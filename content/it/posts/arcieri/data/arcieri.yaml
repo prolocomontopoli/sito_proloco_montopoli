@@ -15,7 +15,7 @@
   rivale: Torre di San Matteo - Perinsù
   sfida_arciera: La Freccia Spezzata
   mito_fondativo: "Durante una tregua, il campione di San Matteo colpì il bersaglio al centro con una freccia perfetta. Ma il campione di Masoria, con un colpo magistrale, spezzò in due quella freccia. Da allora i Sanmatteini gridano all’inganno, i Masoriani alla gloria. La rivalità è eterna, rinnovata ogni anno nella gara della Freccia Spezzata. Per i Masoriani il colpo fu un capolavoro d’ingegno, non un trucco.  "
-  img: images/leone.png
+  img: images/masoria.png
 
 - nome: Marco Puccioni
   soprannome: “Ser Puccio da Sotto"
@@ -74,11 +74,11 @@
 - nome: Stefano Lelli
   soprannome: “Il Nipote della Balia"
   contrada: Leone - Capitano Perinsù
-  descrizione: "Instancabile e protettivo, può tirare per ore senza perdere precisione: la sua forza è nel cuore, non solo nelle braccia."
+  descrizione: "Instancabile e protettivo, può tirare per ore senza perdere precisione: la sua forza è nel cuore, non solo nelle braccia. Il soprannome gli viene dal nonno, fratello maggiore che da giovane aveva accudito e cresciuto i fratelli più piccoli, proprio come una balia. Per questo, Stefano porta con orgoglio il titolo di “nipote della Balia”, memoria viva di un’eredità familiare di cura e responsabilità."
   rivale: Aquila - Peringiu
   sfida_arciera: Il Ruggito e il Volo
   mito_fondativo: "Simboli supremi delle due fazioni, Leone e Aquila incarnano la rivalità stessa tra Perinsu e Peringiu. La leggenda narra che un leone scolpito a guardia delle mura e un’aquila dipinta sugli stendardi si fissarono a lungo, come vivi, durante una parata antica. Da allora, i loro campioni si sfidano in una prova che unisce terra e cielo: colpire prima un bersaglio a terra, poi uno sospeso in alto, a rappresentare il dominio del leone e il volo dell’aquila."
-  img: ""
+  img: "images/leone.jpg"
 
 - nome: Francesco Dal Canto
   soprannome: “Cupido"
@@ -87,6 +87,6 @@
   rivale: Leone - Perinsu
   sfida_arciera: Il Ruggito e il Volo
   mito_fondativo: "Simboli supremi delle due fazioni, Leone e Aquila incarnano la rivalità stessa tra Perinsu e Peringiu. La leggenda narra che un leone scolpito a guardia delle mura e un’aquila dipinta sugli stendardi si fissarono a lungo, come vivi, durante una parata antica. Da allora, i loro campioni si sfidano in una prova che unisce terra e cielo: colpire prima un bersaglio a terra, poi uno sospeso in alto, a rappresentare il dominio del leone e il volo dell’aquila. L’Aquila rivendica il dominio dei cieli, opponendosi al Leone che comanda le terre. La loro sfida è il cuore della rivalità fra Perinsu e Peringiu."
-  img: ""
+  img: "images/grifone.jpg"
 ---
 
