@@ -2,7 +2,7 @@
 title: "L'arrivo dei pellegrini a Montopoli"
 slug: 'pellegrini'
 summary: "
-In questo post troverete il menù completo della cena medievale e il modulo per prenotare il vostro posto!" # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
+I pellegrini stanno arrivando a Montopoli..." # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta description (the theme will automatically grab it from summary if left empty)
 date: '2025-09-05T10:49:18+02:00'
 expiryDate: ''
