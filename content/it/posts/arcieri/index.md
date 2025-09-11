@@ -27,3 +27,25 @@ Params:
 {{< arciere nome="Andrea Cecchi" variante="destra">}}
 {{< arciere nome="Stefano Lelli" variante="sinistra">}}
 {{< arciere nome="Francesco Dal Canto" variante="destra">}}
+
+<h1 class="text-center">Perinsù - Squadra completa</h2>
+
+<img
+      class=" h-100 w-100"
+      style="object-fit: contain; "
+      src="images/peringiu.JPG"
+      alt="arciere {{.nome}}"
+    />
+
+<hr>
+
+<h1 class="text-center">Peringiù - Squadra completa</h2>
+
+<img
+      class=" h-100 w-100"
+      style="object-fit: contain; "
+      src="images/perinsu.JPG"
+      alt="arciere {{.nome}}"
+    />
+
+<hr>
