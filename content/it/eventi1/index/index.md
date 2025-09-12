@@ -92,7 +92,9 @@ Params:
 - **19:15** Piazza Michele - Proclamazione contrada vincitrice del Palio
 - **19:30** Piazza Michele - Esibizione Giullari del Diavolo
 
-### <a class="btn btn-primary btn-lg" href="programma.pdf" download="programma montopoli medioevo 2025">Scarica il programma</a>
+### Scarica il programma
+
+<a class="btn btn-primary btn-lg" href="programma.pdf" download="programma montopoli medioevo 2025">Scarica il programma</a>
 
 ---
 
