@@ -1,11 +1,11 @@
 ---
-title: 'Montopoli Medioevo'
-slug: 'rievocazione'
-url: '/rievocazione'
-description: 'La storia di Montopoli Medioevo - La nostra rievocazione storica'
+title: "Montopoli Medioevo"
+slug: "rievocazione"
+url: "/rievocazione"
+description: "La storia di Montopoli Medioevo - La nostra rievocazione storica"
 draft: false
-layout: 'single'
-date: '2025-09-01T10:49:18+02:00'
+layout: "single"
+date: "2025-09-01T10:49:18+02:00"
 ---
 
 <img src="images/bandiera.png" alt="Una bandiera" title="Una bandiera" style="width: 100%;  margin-top: 1rem; margin-bottom: 1rem" />
@@ -36,3 +36,5 @@ Il Podestà Gherardini Bonafidanza di Piero e il Pievano Iacopo di Colo accolgon
 Come secoli fa, il borgo apre le sue porte a viandanti e pellegrini, offrendo rifugio, ristoro e una calorosa ospitalità.
 
 <img src="images/pellegrino.svg" alt="pellegrino" title="pellegrino" style="width: 50%; " />
+
+## [Programma edizione 2025](https://montopoli.eu/eventi1/index)

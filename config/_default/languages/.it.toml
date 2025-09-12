@@ -24,7 +24,7 @@ La nostra associazione vive in stretta collaborazione con le amministrazioni, le
     mainButton = "Gruppo Storico"
     mainButtonRef = "/gruppostorico"
     secondButton = "Montopoli Medioevo"
-    secondButtonRef = "/rievocazione"
+    secondButtonRef = "/eventi1/index"
 
     blogTitle = "Le ultime novità"
     blogButton= "Carica altro"
