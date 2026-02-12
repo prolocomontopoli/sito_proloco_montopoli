@@ -6,7 +6,7 @@ I pellegrini stanno arrivando a Montopoli..." # This is what will be displayed a
 description: # This is what will be displayed as meta description (the theme will automatically grab it from summary if left empty)
 date: '2025-09-05T10:49:18+02:00'
 expiryDate: ''
-draft:
+draft: true
 type: # This is here for future possible development, you can leave it blank
 layout: 'single'
 # Refer to [Front matter | Hugo](https://gohugo.io/content-management/front-matter/)
