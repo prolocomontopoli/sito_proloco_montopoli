@@ -15,6 +15,13 @@ Params:
 
 <img src="images/featured.png" alt="cena" title="cena" style="width: 100%" />
 
+## Menù
+
+- Antipasto toscano
+- Lasagne al ragù
+- Arista, roastbeef e patate arrosto
+- Dolce
+
 ## Prenotazioni
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQJTnapNEUHfjUrd2tJKSrbj77yL-50zJXJ7R4ZrG7VkCnqA/viewform?embedded=true" width="100%" height="3000px" frameborder="0" marginheight="0" marginwidth="0"></iframe>
