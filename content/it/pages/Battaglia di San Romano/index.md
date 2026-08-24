@@ -1,6 +1,6 @@
 ---
 title: "La Battaglia di San Romano"
-slug: "battaglia di san romano"
+slug: "Battaglia di San Romano"
 url: "/Battaglia di San Romano"
 description: "Inaugurazione del trittico della Battaglia di S"
 draft: false
