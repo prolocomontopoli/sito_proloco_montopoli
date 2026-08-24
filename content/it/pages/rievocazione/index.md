@@ -30,6 +30,6 @@ A titolo di riconoscimento per i benefici concessi, i fratelli e i loro successo
 
 **La rievocazione storica si svolgerà domenica 13 settembre alle ore 11:00 in Piazza della Pieve.** 
 
-<img src="images/pellegrino.svg" alt="pellegrino" title="pellegrino" style="width: 50%; " />
+<img src="images/Logo Festa Medievale 2026.svg" alt="Logo Festa Medievale 2026" title="Logo Festa Medievale 2026" style="width: 50%; " />
 
 ## [Programma edizione 2026](https://montopoli.eu/eventi1/index)
