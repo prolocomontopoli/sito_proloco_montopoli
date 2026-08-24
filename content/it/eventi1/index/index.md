@@ -38,6 +38,8 @@ Params:
 - **Esposizione in Santa Marta (via del Falcone) 🎨 Mostra "Tradizioni con gli occhi dei bambini"** Venite a scoprire i disegni realizzati dai bambini dell’asilo e delle scuole elementari del comune di Montopoli! Una raccolta dei lavori nati dopo gli incontri svolti in classe con i **Musici, Sbandieratori e Arcieri**, che hanno raccontato e mostrato ai più piccoli l'arte delle loro discipline.
 
 ---
+- **Il Programma dettagliato sarà aggiornato nei prossimi giorni**
+---
 
 <img src="images/featured.jpg" alt="" title="Manifesto 2025" style="width: 100%" />
 
