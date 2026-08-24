@@ -34,17 +34,24 @@ Params:
 - **15:30** Il corteo storico montopolese, con i Gruppi Storici ospiti di: Assisi (PG), Giove (TR), Lavagna (GE), Montevarchi (AR), San Gemini (TR) e Volterra (PI), accompagnerà il popolo fino a P.zza II Giugno, dove i più abili arcieri dei due popoli si contenderanno l’ambito Palio
 - **18:00** P.zza II Giugno - Disfida con l’Arco tra i Popoli di Santo Stefano e S. Giovanni
 - **19:00** P.zza Michele da Montopoli - Proclamazione della Contrada vincitrice, consegna del Palio e premiazione del miglior Arciere 2026
+
 ---
+
 - **Esposizione in Santa Marta (via del Falcone) 🎨 Mostra "Tradizioni con gli occhi dei bambini"** Venite a scoprire i disegni realizzati dai bambini dell’asilo e delle scuole elementari del comune di Montopoli! Una raccolta dei lavori nati dopo gli incontri svolti in classe con i **Musici, Sbandieratori e Arcieri**, che hanno raccontato e mostrato ai più piccoli l'arte delle loro discipline. 
+
 ---
+
 - **Il Programma dettagliato sarà aggiornato nei prossimi giorni**
+
 ---
+
 - **Museo Civico Palazzo Guicciardini**\
   **SABATO 12:** MUSEO APERTO DALLE 16 ALLE 19\
   **DOMENICA 13:** MUSEO APERTO DALLE 10 ALLE 20
 
+---
 
-  **DOMENICA 13** DALLE ORE 16:00 ALLE 19:00
+- **DOMENICA 13** DALLE ORE 16:00 ALLE 19:00
 
   **Giardino del Museo**
 
@@ -57,7 +64,9 @@ Params:
   la composizione olfattiva di miscele profumate, e la personalizzazione di un
   capilettera con motivi e fregi storici.
 
-  **DOMENICA 13 DALLE ORE** 16:00 ALLE 19:00
+---
+
+- **DOMENICA 13 DALLE ORE** 16:00 ALLE 19:00
 
   **Giardino del Museo**
   
@@ -68,7 +77,9 @@ Params:
   dedicati al Medioevo, ai castelli, ai mestieri e alla vita quotidiana, disponibili
   anche per il prestito.
 
-  **DOMENICA 13 DALLE ORE 15:00 ALLE ORE 19:00**
+---
+
+- **DOMENICA 13 DALLE ORE 15:00 ALLE ORE 19:00**
   
   **Spazio Antistante al Museo**
   
@@ -77,6 +88,7 @@ Params:
   Tocca modella e decora il tuo manufatto in terracotta.
 
   **INGRESSO LIBERO E PARTECIPAZIONE GRATUITA**
+
 ---
 
 
