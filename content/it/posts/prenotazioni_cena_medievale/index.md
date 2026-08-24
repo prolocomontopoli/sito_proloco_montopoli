@@ -3,7 +3,7 @@ title: "Cena medievale - PRENOTAZIONI"
 slug: "cena_medievale"
 summary: "In questo post troverete il menù completo della cena medievale e il modulo per prenotare il vostro posto!" # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta description (the theme will automatically grab it from summary if left empty)
-date: "2025-09-01T10:49:18+02:00"
+date: "2026-08-01T10:49:18+02:00"
 expiryDate: ""
 draft: false
 type: # This is here for future possible development, you can leave it blank
