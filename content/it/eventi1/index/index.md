@@ -27,7 +27,7 @@ Params:
 
 ### Domenica 13 Settembre
 
-- **10:00** Gara amichevole dei nostri arcieri all'interno del centro storico
+- **09:00** Gara amichevole dei nostri arcieri all'interno del centro storico
 - **10:00** Il Castello apre le porte. Per tutto il giorno vivrete la vita del castello con gli occhi di un viandante, cambiando soldi dal cambiavalute, divertendovi con i giochi tipici che rallegravano le feste medievali, potrete danzare con le nobili dame, ammirare i giocolieri, i musici, gli - sbandieratori, gli abili arcieri, l’accampamento, le macchine da guerra, gli armati, i combattimenti con la spada, i cavalli e i cavalieri, il mercato, i mestieri, i cantastorie e gli spettacoli di mangiafuoco 
 - **11:00** Piazza della Pieve- Rievocazione storica: “A.D. 1483 - Il Vescovo di Lucca assegna alla famiglia Lippi Porzi il patronato della Chiesa di San Jacopo in Monte”
 - **11:45** Piazza S.Matteo – Palio dell’assalto al castello
