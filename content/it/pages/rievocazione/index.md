@@ -25,7 +25,7 @@ Da cinquantadue anni la Pro Loco di Montopoli V.A. organizza una delle rievocazi
 
 La Chiesa di San Jacopo in Monte, nel distretto di Montopoli, è menzionata in una lettera del 20 aprile 1483 redatta da Michele Petri, cittadino lucchese e dottore in Decretali. Nel documento, il vescovo di Lucca Niccolò Sandonnini accoglie la richiesta avanzata dai fratelli Michele, Girolamo, Sebastiano, Ilario e Pietro — figli del fu Jacopo Lippi Porzi — affidando loro il patronato dell’oratorio di San Jacopo.
 Nell'atto, il vescovo dispone un'ispezione preliminare e concede ai fratelli la piena facoltà di eleggere, nominare e presentare una persona idonea alla carica di rettore. Nella medesima lettera, la condizione della cappella viene descritta come «desolata, privata di tutti i suoi beni mobili e priva di culto». Spinta dalla devozione verso l’apostolo San Giacomo, la famiglia Lippi Porzi provvide a restaurare l'edificio e ad ornarlo degnamente.
-A titolo di riconoscimento per i benefici concessi, i fratelli e i loro successori furono tenuti a versare in perpetuo all’arcivescovado una libbra di cera lavorata ogni anno, in occasione della festa di San Martino.
+A titolo di riconoscimento per i benefici concessi, i fratelli e i loro successori furono tenuti a versare in perpetuo al vescovado una libbra di cera lavorata ogni anno, in occasione della festa di San Martino.
 
 
 **La rievocazione storica si svolgerà domenica 13 settembre alle ore 11:00 in Piazza della Pieve.** 
