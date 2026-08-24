@@ -32,8 +32,7 @@ A titolo di riconoscimento per i benefici concessi, i fratelli e i loro successo
 
 ---
 
-<video width="360" height="640" controls>
-  <source src="VideoC.mp4" type="video/mp4"></video>
+<video src="VideoC.mp4" controls></video>
 
 
 <img src="images/Logo Festa Medievale 2026.svg" alt="Logo Festa Medievale 2026" title="Logo Festa Medievale 2026" style="width: 50%; " />
