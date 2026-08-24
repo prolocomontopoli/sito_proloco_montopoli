@@ -48,6 +48,6 @@ Params:
 
 ---
 
- <img src="images/pieghevole.jpg" alt="" title="Programma 2025" style="width: 100%" />
+#<img src="images/pieghevole.jpg" alt="" title="Programma 2025" style="width: 100%" /> 
 
 ---
