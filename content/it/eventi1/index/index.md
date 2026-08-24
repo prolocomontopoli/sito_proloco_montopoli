@@ -4,7 +4,7 @@ slug: 'index'
 summary: "
 Programma dell'edizione 2026 di Montopoli Medioevo" # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta description (the theme will automatically grab it from summary if left empty)
-date: '2025-09-05T10:49:18+02:00'
+date: '2026-08-24T10:49:18+02:00'
 expiryDate: ''
 draft:
 type: # This is here for future possible development, you can leave it blank
@@ -27,8 +27,8 @@ Params:
 
 ### Domenica 13 Settembre
 
-- **09:00** Gara amichevole dei nostri arcieri all'interno del centro storico
-- **10:00** Il Castello apre le porte. Per tutto il giorno vivrete la vita del castello con gli occhi di un viandante, cambiando soldi dal cambiavalute, divertendovi con i giochi tipici che rallegravano le feste medievali, potrete danzare con le nobili dame, ammirare i giocolieri, i musici, gli - sbandieratori, gli abili arcieri, l’accampamento, le macchine da guerra, gli armati, i combattimenti con la spada, i cavalli e i cavalieri, il mercato, i mestieri, i cantastorie e gli spettacoli di mangiafuoco
+- **09:00** Gara amichevole dei nostri arcieri all'interno del centro storico.
+- **10:00** Il Castello apre le porte. Per tutto il giorno vivrete la vita del castello con gli occhi di un viandante, cambiando soldi dal cambiavalute, divertendovi con i giochi tipici che rallegravano le feste medievali, potrete danzare con le nobili dame, ammirare i giocolieri, i musici, gli - sbandieratori, gli abili arcieri, l’accampamento, le macchine da guerra, gli armati, i combattimenti con la spada, i cavalli e i cavalieri, il mercato, i mestieri, i cantastorie e gli spettacoli di mangiafuoco 
 - **11:00** Piazza della Pieve- Rievocazione storica: “A.D. 1483 - Il Vescovo di Lucca assegna alla famiglia Lippi Porzi il patronato della Chiesa di San Jacopo in Monte”
 - **11:45** Piazza S.Matteo – Palio dell’assalto al castello
 - **15:30** Il corteo storico montopolese, con i Gruppi Storici ospiti di: Assisi (PG), Giove (TR), Lavagna (GE), Montevarchi (AR), San Gemini (TR) e Volterra (PI), accompagnerà il popolo fino a P.zza II Giugno, dove i più abili arcieri dei due popoli si contenderanno l’ambito Palio
