@@ -34,7 +34,8 @@ Params:
 - **15:30** Il corteo storico montopolese, con i Gruppi Storici ospiti di: Assisi (PG), Giove (TR), Lavagna (GE), Montevarchi (AR), San Gemini (TR) e Volterra (PI), accompagnerà il popolo fino a P.zza II Giugno, dove i più abili arcieri dei due popoli si contenderanno l’ambito Palio
 - **18:00** P.zza II Giugno - Disfida con l’Arco tra i Popoli di Santo Stefano e S. Giovanni
 - **19:00** P.zza Michele da Montopoli - Proclamazione della Contrada vincitrice, consegna del Palio e premiazione del miglior Arciere 2026
-
+---
+- **Esposizione in Santa Marta (via del Falcone) 🎨 Mostra "Tradizioni con gli occhi dei bambini"** Venite a scoprire i disegni realizzati dai bambini dell’asilo e delle scuole elementari del comune di Montopoli! Una raccolta dei lavori nati dopo gli incontri svolti in classe con i **Musici, Sbandieratori e Arcieri**, che hanno raccontato e mostrato ai più piccoli l'arte delle loro discipline. 
 ---
 - **Il Programma dettagliato sarà aggiornato nei prossimi giorni**
 ---
