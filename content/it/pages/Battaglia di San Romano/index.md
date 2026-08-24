@@ -1,4 +1,3 @@
-
 ---
 title: "La Battaglia di San Romano"
 slug: "battaglia di san romano"
