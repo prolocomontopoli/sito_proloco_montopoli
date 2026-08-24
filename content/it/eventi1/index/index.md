@@ -57,7 +57,7 @@ Params:
 
   **APPRENDISTI CERCASI!**
 
-  Giochi e prove nelle botteghe medievali
+ - Giochi e prove nelle botteghe medievali
 
   Alcune postazioni tematiche offriranno brevi sfide manuali o sensoriali
   legate a mestieri e saperi tradizionali, come la tessitura, il riconoscimento e
