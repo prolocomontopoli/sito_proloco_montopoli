@@ -129,6 +129,10 @@ La nostra associazione vive in stretta collaborazione con le amministrazioni, le
   pageRef = "pages/contacts"
   weight = 4
   [[menus.main]]
+  name = "consiglio"
+  pageRef = "pages/consiglio"
+  weight = 4   
+  [[menus.main]]
   name = "Gruppo Storico"
   pageRef = "pages/gruppo_storico"
   weight = 4
