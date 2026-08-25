@@ -56,10 +56,7 @@ Params:
 
   Giochi e prove nelle botteghe medievali
 
-  Alcune postazioni tematiche offriranno brevi sfide manuali o sensoriali
-  legate a mestieri e saperi tradizionali, come la tessitura, il riconoscimento e
-  la composizione olfattiva di miscele profumate, e la personalizzazione di un
-  capilettera con motivi e fregi storici.
+  Alcune postazioni tematiche offriranno brevi sfide manuali o sensoriali legate a mestieri e saperi tradizionali, come la tessitura, il riconoscimento e la composizione olfattiva di miscele profumate, e la personalizzazione di un capilettera con motivi e fregi storici.
 
 - **DOMENICA 13 DALLE ORE** 16:00 ALLE 19:00
 
@@ -67,10 +64,7 @@ Params:
   
   **LA BIBLIOTECA NEL MERCATO MEDIEVALE**
   
-  Attività laboratoriali e letture nell'Angolo delle storie, a cura della Biblioteca
-  di Montopoli. Sarà inoltre presente una selezione di albi illustrati e libri
-  dedicati al Medioevo, ai castelli, ai mestieri e alla vita quotidiana, disponibili
-  anche per il prestito.
+  Attività laboratoriali e letture nell'Angolo delle storie, a cura della Biblioteca di Montopoli. Sarà inoltre presente una selezione di albi illustrati e libri dedicati al Medioevo, ai castelli, ai mestieri e alla vita quotidiana, disponibili anche per il prestito.
 
 - **DOMENICA 13 DALLE ORE 15:00 ALLE ORE 19:00**
   
