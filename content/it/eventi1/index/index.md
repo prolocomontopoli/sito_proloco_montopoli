@@ -43,14 +43,7 @@ Params:
 ---
 - **Museo Civico Palazzo Guicciardini**
 ---
-  **Sabato 12:** Museo aperto dalle 16 alle 19\
-  **Domenica 13:** Museo aperto dalle 10 alle 20
-
-- **Domenica 13:** dalle ore 16:00 alle ore 19:00
-
-  **Giardino del Museo** 
-
-  **APPRENDISTI CERCASI!** 
+  **Sabato 12:** Museo aperto dalle 16 alle 19
 ---
 
 
