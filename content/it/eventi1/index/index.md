@@ -41,8 +41,7 @@ Params:
 - **Esposizione in Santa Marta (via del Falcone) 🎨 Mostra "Tradizioni con gli occhi dei bambini"** Venite a scoprire i disegni realizzati dai bambini dell’asilo e delle scuole elementari del comune di Montopoli! Una raccolta dei lavori nati dopo gli incontri svolti in classe con i **Musici, Sbandieratori e Arcieri**, che hanno raccontato e mostrato ai più piccoli l'arte delle loro discipline. 
 
 ---
-
-- **Museo Civico Palazzo Guicciardini**\
+- **Museo Civico Palazzo Guicciardini**
 
   **Sabato 12:** Muso aperto dalle 16 alle 19\
   **Domenica 13:** Museo aperto dalle 10 alle 20
@@ -52,7 +51,6 @@ Params:
   **Giardino del Museo** 
 
   **APPRENDISTI CERCASI!** 
-
 ---
 
 
