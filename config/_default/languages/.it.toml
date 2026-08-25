@@ -135,6 +135,10 @@ La nostra associazione vive in stretta collaborazione con le amministrazioni, le
    [[menus.main]]
   name = "trasparenza"
   pageRef = "pages/trasparenza"
+  weight = 4 
+  [[menus.main]]
+  name = "eventi"
+  pageRef = "pages/eventi"
   weight = 4   
   [[menus.main]]
   name = "Rievocazione"
