@@ -15,7 +15,7 @@ Params:
 
 ## Menù
 
-<img src="images/menu.png" alt="" title="menu2026" style="width: 70%" />
+<center><img   src="images/menu.png" alt="" title="menu2026" style="width: 70%" /> </center>   
 
 ## Prenotazioni
 
