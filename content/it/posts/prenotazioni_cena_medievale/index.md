@@ -13,7 +13,9 @@ Params:
   imageAttribution: "  " # Set an attribution to the author of the picture you're using for the post # Set an attribution to the author of the picture you're using for the post
 ---
 
-## Menù in arrivo
+## Menù
+
+<img src="images/menu.png" alt="" title="menu2026" style="width: 70%" />
 
 ## Prenotazioni
 
