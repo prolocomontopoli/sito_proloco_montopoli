@@ -35,5 +35,11 @@ Di seguito riportiamo i contributi ricevuti nell'esercizio dalla Pro Loco di Mon
 
 ### 2025
 - €8.700,00 in data 14/04/2025 dalla Regione Toscana, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2024.
-- €8.000,00 in data 20/06/2025 dal Comune di Montopoli in val d'Arno, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2024.
-- €5000,00 in data 20/06/2025 dalla Regione Toscana, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2024.
+- €8.000,00 in data 20/06/2025 dal Comune di Montopoli in val d'Arno, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2025.
+- €5.000,00 in data 20/06/2025 dalla Regione Toscana, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2025.
+- €11.309,83 in data 29/12/2025 dalla partecipazione al bando del ministero della cultura, direzione generale e spettacolo, relativo al 2025.
+
+### 2026
+- €8.000,00 in data 6/02/2026 dal Comune di Montopoli in val d'Arno, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2025.
+- €5.000,00 in data 7/05/2026 dalla Regione Toscana, come contributo per il bando alla coprogettazione delle rievocazioni storiche regionali relativo al 2025.
+- €24.960,00 in data 11/08/2026, da Comune di Montopoli in Val d'Arno e Regione Toscana come contributo per la coprogettazione delle rievocazioni storiche, relativo al 2026.
